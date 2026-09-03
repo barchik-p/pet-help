@@ -21,7 +21,7 @@ Este projeto foi desenvolvido e testado em ambiente local como parte dos meus es
 - **Cadastro e Perfil do Usuário:** Criação de perfil pessoal na plataforma.
 - **Fluxo de Adoção:** Envio de solicitações formais de adoção diretamente para a ONG responsável pelo animal.
 - **Doações Diretas:** Funcionalidade para realizar doações financeiras ou de recursos para ONGs específicas.
-- 
+
 
 ## Tecnologias Utilizadas
 - **Front-end:** HTML5, CSS3, JavaScript
@@ -37,8 +37,8 @@ Durante o desenvolvimento deste projeto, aprendi a:
 
 ## Autoras
 Desenvolvido por:
-Mariana Barchik dos Santos  
-- [LinkedIn](www.linkedin.com/in/mariana-barchik-dos-santos-b51823363)
+- Mariana Barchik dos Santos  
+-- [LinkedIn](www.linkedin.com/in/mariana-barchik-dos-santos-b51823363)
 
-Lorena Leduc 
+- Lorena Leduc 
 
